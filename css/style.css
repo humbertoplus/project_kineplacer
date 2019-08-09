@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.tablaDecorada {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 14px;
+	color: #F30;
+	border: medium double #C36;
+	background-color: #EAEAEA;
+}
+.textoAzulOscuro {
+	color: #030;
+	font-weight: bold;
+}
+titulo36 {
+	font-size: 36px;
+}
+.title36 {
+	font-size: 36px;
+}
